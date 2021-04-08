@@ -89,4 +89,7 @@ sw.*
 
 # Awake CMS
 # static/admin
-static/api*
+# static/api
+package-lock.json
+*_raw
+*_new
