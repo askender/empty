@@ -2,7 +2,7 @@
 title: 测试
 subtitle: just start
 category:
-  - About Awake
+  - Test
 author: askender
 date: 2021-04-09T01:19:46.000Z
 featureImage: /uploads/test.jpg
