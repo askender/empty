@@ -80,6 +80,7 @@ dist
 # IDE / Editor
 .idea
 .editorconfig
+.code-workspace
 
 # Service worker
 sw.*
@@ -87,9 +88,8 @@ sw.*
 # Mac OSX
 .DS_Store
 
-# Awake CMS
-# static/admin
-# static/api
-package-lock.json
-*_raw
-*_new
+# Vim swap files
+*.swp
+
+# Local Netlify folder
+.netlify
